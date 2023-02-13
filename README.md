@@ -1,1 +1,7 @@
-# lab-pbw-b-DhaifinaAlifaPutri
+# Ini merupakan repository tugas praktikum Pemrograman Berbasis Web INF 224 USK 2023
+ 
+## Data Diri
+ 
+Nama : Dhaifina Alifa Putri
+
+NPM : 2108107010018
